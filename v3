@@ -91,11 +91,44 @@ a "Daznak's Pit", "Great Pit", "The Great Pit of Daznak"
 q "**What is the emblem of the cities of Slaver's Bay"
 a "The Harpy", "A harpy", "Harpy"
 
-q
-a
+q "**How many bells are on the coin of Norvos?**"
+a "Three", "3"
 
-q
-a
+q "**The ruling body of Volantis is known by what title?**"
+a "The Triarch", "Triarch", "Triarch of Volantis", "Triarchs"
+
+q "**In Westeros, this alliance was known as the Kingdom of the Three Daughters.**"
+a "The Triarchy", "Triarchy"
+
+q "**What was the name of the Tyroshi man who declared himself King of the Narrow Sea?**"
+a "Racallio Ryndoon", "Racallio"
+
+q "**Originally Braavosi, what is the name of the war galley captained by Alyn Velaryon?**"
+a "Lady Baela"
+
+q "**The Kingdom of Sarnor developed around this northern Essosi river."
+a "The Sarne", "Sarne"
+
+q "**In *ADWD - Daenerys X,* Dany has stomach issues in the Dothraki Sea. What character does she have a hallucination of immediately after?**"
+a "Viserys Targaryen", "Viserys"
+
+q "**What colorful Essosi sea dried up into three large lakes in the Dothraki Sea?**"
+a "The Silver Sea", "Silver Sea"
+
+q "**Translate *Tagaez Fen* to the common tongue.**"
+a "Tall Men"
+
+q "**Who is said to be the richest man in the yellow city?**"
+a "Yezzan zo Qaggaz", "Yezzan"
+
+q "**In Meereen, the bloody flux is also known by what name?**"
+a "Pale Mare", "The Pale Mare"
+
+q "**This man, known as the Wandering Wolf, served with the Second Sons sometime after 200 AC.**"
+a "Rodrik Stark", "Rodrik"
+
+q "**In Meereen, who does Tyrion promise one hundred thousand gold dragons, fifty hides of fertile land, a castle and a lordship?**"
+a "Ben Plumm", "Brown Ben", "Brown Ben Plumm", "Ben"
 
 q
 a
