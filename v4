@@ -13,9 +13,6 @@ a "Greyscale"
 q "**From which of the Free Cities does the game Cyvasse orginiate?**" 
 a "Volantis"
 
-q "**The Triarchs are the three rulers of what Free City?**"
-a "Volantis"
-
 q "**What was the name of King Aegon IV Targaryen's last bastard child, who was half Lysene?**" 
 a "Shiera Seastar", "Shiera"
 
@@ -49,7 +46,7 @@ a "Braavos"
 q "**Who is Cat of the Canals?**"
 a "Arya Stark", "Arya"
 
-q "**Before A Game of Thrones, Syrio Forel formerly held what title?**"
+q "**Before *A Game of Thrones,* Syrio Forel held what title?**"
 a "First Sword of Braavos", "First Sword"
 
 q "**What are the name of the massive fortresses in Essos, rumored to have been built prior to the Long Night?**"
@@ -130,11 +127,14 @@ a "Rodrik Stark", "Rodrik"
 q "**In Meereen, who does Tyrion promise one hundred thousand gold dragons, fifty hides of fertile land, a castle and a lordship?**"
 a "Ben Plumm", "Brown Ben", "Brown Ben Plumm", "Ben"
 
-q
-a
+q "**What is the oldest of the nine free cities?**"
+a "Volantis"
 
-q
-a
+q "**Who was the captain of the Braavosi ship *Sun Chaser*?**"
+a "Elissa Farman", "Elissa"
+
+q "**In *A Dance with Dragons,* monkeys from what island plague Victarion's fleet?**"
+a "The Isle of Cedars", "Isle of Cedars"
 
 q
 a
