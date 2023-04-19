@@ -4,7 +4,7 @@ a "The Century of Blood", "Century of Blood", "The Bleeding Years", "Bleeding Ye
 q "**The Valyrian Freehold forced which major ethnic group into exile?**"
 a "The Rhoynar", "Rhoynar"
 
-q "**In A Dance with Dragons, Tyrion Lannister and the Shy Maid travel through what ruined Essosi city?**"
+q "**In *A Dance with Dragons,* Tyrion Lannister and the Shy Maid travel through what ruined Essosi city?**"
 a "Chroyane"
 
 q "**Tyrion Lannister insists that Garin's Curse is actually what disease?**"
@@ -98,7 +98,7 @@ q "**In Westeros, this alliance was known as the Kingdom of the Three Daughters.
 a "The Triarchy", "Triarchy"
 
 q "**What was the name of the Tyroshi man who declared himself King of the Narrow Sea?**"
-a "Racallio Ryndoon", "Racallio"
+a "Racallio Ryndoon", "Racallio", "Ryndoon"
 
 q "**Originally Braavosi, what is the name of the war galley captained by Alyn Velaryon?**"
 a "Lady Baela"
@@ -136,17 +136,47 @@ a "Elissa Farman", "Elissa"
 q "**In *A Dance with Dragons,* monkeys from what island plague Victarion's fleet?**"
 a "The Isle of Cedars", "Isle of Cedars"
 
-q
-a
+q "**What is the name of the landmass to the southeast of Essos, believed to be potentially another continent?**"
+a "Ulthos"
 
-q
-a
+q "**Translate *woods walkers* to its Dothraki form."
+a "Ifequevron"
 
-q
-a
+q "**What is the title held by the leader of Tyrosh?**"
+a "Archon of Tyrosh", "Archon"
 
-q
-a
+q "**The Essosi civil war that reached Westerosi territory late in the first century was known as what?**"
+a "The Myrish Bloodbath", "Myrish Bloodbath"
 
-q
-a
+q "**What forested region is at the edge of the known world in northeastern Essos?**"
+a "Mossovy", "Far Mossovy"
+
+q "**In *A Dance with Dragons,", who served as Supreme Commander of the Armies and Allies of Yunkai?**"
+a "Yurkhaz zo Yunzak", "Yurkhaz"
+
+q "**After Quentyn Martell got toasted, Rhaegal made his home on which Meereenese pyramid?**"
+a "Pyramid of Yherizan", "Yherizan"
+
+q "**What was the name of the group of trebuchets built by Yunkai for the Second Siege of Meereen?**"
+a "The Six Sisters", "Six Sisters"
+
+q "**Name one of the two characters in *A Feast for Crows* who have a POV chapter in Essos!**"
+a "Arya Stark and Samwell Tarly", "Arya Stark", "Samwell Tarly", "Arya", "Samwell", "Sam", "Cat of the Canals", "Cat"
+
+q "**Who signed the marriage pact between Houses Targaryen and Martell in Braavos on behalf of the Targaryens?**"
+a "Ser Willem Darry", "Willem Darry", "Willem"
+
+q "**Which deity's followers settled on present day Lorath?**"
+a "Boash", "The Blind God", "Blind God"
+
+q "**What Myrish song is repeatedly referenced in *A Song of Ice and Fire*?**"
+a "The Seasons of My Love", "Seasons of My Love", "Season of My Love"
+
+q "**Which free city was Varys born in?**"
+a "Lys"
+
+q "**Which free city is Areo Hotah from?**"
+a "Norvos"
+
+q "**In the mid-1st century, who went on a vacation to Valyria with Balerion?**"
+a "Princess Aerea Targaryen", "Aerea Targaryen", "Aerea"
