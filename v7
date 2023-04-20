@@ -82,10 +82,10 @@ a "Ser Willem Darry", "Willem Darry", "Willem"
 q "**Daenerys fondly remembers a house with a door of what color?**"
 a "Red"
 
-q "**In A Storm of Swords, where did Daenerys have the 163 Great Masters impaled on spikes?**"
+q "**In *A Storm of Swords,* where did Daenerys have the 163 Great Masters impaled on spikes?**"
 a "Daznak's Pit", "Great Pit", "The Great Pit of Daznak"
 
-q "**What is the emblem of the cities of Slaver's Bay"
+q "**What is the emblem of the cities of Slaver's Bay?**"
 a "The Harpy", "A harpy", "Harpy"
 
 q "**How many bells are on the coin of Norvos?**"
@@ -103,7 +103,7 @@ a "Racallio Ryndoon", "Racallio", "Ryndoon"
 q "**Originally Braavosi, what is the name of the war galley captained by Alyn Velaryon?**"
 a "Lady Baela"
 
-q "**The Kingdom of Sarnor developed around this northern Essosi river."
+q "**The Kingdom of Sarnor developed around this northern Essosi river.**"
 a "The Sarne", "Sarne"
 
 q "**In *ADWD - Daenerys X,* Dany has stomach issues in the Dothraki Sea. What character does she have a hallucination of immediately after?**"
@@ -134,12 +134,12 @@ q "**Who was the captain of the Braavosi ship *Sun Chaser*?**"
 a "Elissa Farman", "Elissa"
 
 q "**In *A Dance with Dragons,* monkeys from what island plague Victarion's fleet?**"
-a "The Isle of Cedars", "Isle of Cedars"
+a "The Isle of Cedars", "Isle of Cedars", "Cedars"
 
 q "**What is the name of the landmass to the southeast of Essos, believed to be potentially another continent?**"
 a "Ulthos"
 
-q "**Translate *woods walkers* to its Dothraki form."
+q "**Translate *woods walkers* to its Dothraki form.**"
 a "Ifequevron"
 
 q "**What is the title held by the leader of Tyrosh?**"
@@ -151,7 +151,7 @@ a "The Myrish Bloodbath", "Myrish Bloodbath"
 q "**What forested region is at the edge of the known world in northeastern Essos?**"
 a "Mossovy", "Far Mossovy"
 
-q "**In *A Dance with Dragons,", who served as Supreme Commander of the Armies and Allies of Yunkai?**"
+q "**In *A Dance with Dragons,*" who served as Supreme Commander of the Armies and Allies of Yunkai?**"
 a "Yurkhaz zo Yunzak", "Yurkhaz"
 
 q "**After Quentyn Martell got toasted, Rhaegal made his home on which Meereenese pyramid?**"
